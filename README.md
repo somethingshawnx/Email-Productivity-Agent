@@ -1,8 +1,13 @@
 ## 📧 Prompt-Driven Email Productivity Agent
 
 An intelligent, prompt-driven web application built with Streamlit and Groq (Llama 3.1) that automates core email productivity tasks: categorization, action item extraction, summarization, and auto-drafting replies.
-
 The agent's entire behavior is governed by user-editable prompts (the "Prompt Brain"), ensuring flexibility and compliance with user-defined rules.
+
+<p align="center">
+  <a href="https://email-appuctivity-agent-npkivcs3xe9b7qttazxawn.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=streamlit" alt="Live Demo">
+  </a>
+</p>
 
 ### ✨ Features and Workflow
 
