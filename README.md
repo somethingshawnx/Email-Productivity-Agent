@@ -7,7 +7,7 @@ The agent's entire behavior is governed by user-editable prompts (the "Prompt Br
 <p align="center">
 <!-- Placeholder for a future live demo badge -->
 <a href="#">
-<img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=streamlit" alt="Live Demo">
+<img src="https://email-appuctivity-agent-npkivcs3xe9b7qttazxawn.streamlit.app/" alt="Live Demo">
 </a>
 </p>
 
