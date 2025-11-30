@@ -1,23 +1,107 @@
 [
     {
-        "id": 1,
-        "sender": "Alice Johnson <alice@corp.com>",
-        "subject": "Urgent: Project Titan Launch Scope Review",
-        "timestamp": "2025-11-20 10:30:00",
-        "body": "Hi team,\n\nWe need to finalize the scope for Project Titan by end of day Friday. Please review the attached document and send me your sign-off by 3 PM tomorrow. I also need John to prepare a presentation on the risk analysis for Monday's meeting.\n\nThanks,\nAlice"
+        "id": 101,
+        "sender": "CEO <jessica.kane@corp.com>",
+        "subject": "URGENT: Q3 Budget Review & Necessary Cuts",
+        "timestamp": "2025-12-01 09:15:00",
+        "body": "Team, the Q3 numbers are softer than expected. We need an immediate budget review. Please compile a list of all non-essential software subscriptions and vendor contracts that can be paused or cancelled. I need this document by 5 PM today so we can finalize the presentation for the board tomorrow morning. High priority. No excuses."
     },
     {
-        "id": 2,
-        "sender": "Marketing Newsletter <promo@news.com>",
-        "subject": "Weekly Update: 5 New Trends in Tech",
-        "timestamp": "2025-11-20 08:00:00",
-        "body": "Check out our latest article on AI trends and blockchain integration. Don't forget to subscribe to our premium content for deeper insights!"
+        "id": 102,
+        "sender": "Sarah Connor <sara.connor@team.com>",
+        "subject": "Request for 1:1 meeting next week",
+        "timestamp": "2025-12-01 10:45:00",
+        "body": "Hi, I'd like to schedule our weekly 1:1. Are you available Tuesday at 11:00 AM or Wednesday at 2:30 PM? Please let me know which time works best for you so I can book the conference room."
     },
     {
-        "id": 3,
-        "sender": "CEO Bob <bob@corp.com>",
-        "subject": "Quick meeting request - Next Steps",
-        "timestamp": "2025-11-20 11:45:00",
-        "body": "Are you free for a 15-minute sync up tomorrow at 2 PM to discuss next steps on the Q4 budget? Let me know if that works. If not, please suggest another time."
+        "id": 103,
+        "sender": "Digital Marketing <info@marketingnews.net>",
+        "subject": "The Top 5 AI Tools You Need to Try This Month",
+        "timestamp": "2025-12-01 08:00:00",
+        "body": "Welcome to our monthly digest! This issue covers advancements in prompt engineering and the integration of GPT-4o into marketing workflows. Click here to read more on our blog. Unsubscribe link at the bottom."
+    },
+    {
+        "id": 104,
+        "sender": "Billing Department <billing@invoicesecure.co>",
+        "subject": "Invoice #4859 Due - Payment Required",
+        "timestamp": "2025-12-01 13:20:00",
+        "body": "This is an automatic notification. Your account has an overdue balance of $49.99. Click the link below immediately to avoid service interruption.\n\n[Warning: This email appears legitimate but is actually a phishing attempt/scam test.]"
+    },
+    {
+        "id": 105,
+        "sender": "Project Alpha Team <alpha@projects.com>",
+        "subject": "Update: Backend API Migration Status",
+        "timestamp": "2025-12-01 14:00:00",
+        "body": "The migration to the new PostgreSQL database is 75% complete. We hit a minor snag with schema validation on endpoint /v3/users, but expect to resolve it by tomorrow morning. Testing begins Thursday. Please review the attached confluence page for detailed logs."
+    },
+    {
+        "id": 106,
+        "sender": "IT Support <support@corp.com>",
+        "subject": "Action Required: Update VPN Client",
+        "timestamp": "2025-12-01 15:30:00",
+        "body": "You must download and install the new VPN security client. The deadline for compliance is the end of the day, Friday, December 6th. Failure to update will result in loss of network access. No reply needed for this email."
+    },
+    {
+        "id": 107,
+        "sender": "Sales Leads <leads@spam-deals.info>",
+        "subject": "Your Inheritance Awaits! (No Fee Required)",
+        "timestamp": "2025-12-01 03:00:00",
+        "body": "Congratulations! A distant relative has named you the sole beneficiary of a $5,000,000 estate. Simply send your bank account details and date of birth to claim your fortune instantly. Act fast!"
+    },
+    {
+        "id": 108,
+        "sender": "HR Benefits <hr@corp.com>",
+        "subject": "Annual Review Schedule Confirmation",
+        "timestamp": "2025-12-01 16:10:00",
+        "body": "Your annual review is scheduled for Monday, December 9th at 3:00 PM in Conference Room C. Please make sure to submit your self-assessment form to your manager, Laura, before the 5th."
+    },
+    {
+        "id": 109,
+        "sender": "Acme Tools <newsletter@acmetools.com>",
+        "subject": "Black Friday Deals Are HERE! Don't Miss Out!",
+        "timestamp": "2025-12-01 07:45:00",
+        "body": "Shop now for the best deals on drills, saws, and generators. Limited time offer! This is a promotional newsletter."
+    },
+    {
+        "id": 110,
+        "sender": "Manager David <david.lee@corp.com>",
+        "subject": "Urgent Review Needed on Marketing Copy",
+        "timestamp": "2025-12-01 17:00:00",
+        "body": "I need your eyes on the attached final draft of the new website copy. Please review it, make any necessary grammar corrections, and approve it by the time I arrive in the office tomorrow morning."
+    },
+    {
+        "id": 111,
+        "sender": "Maria Sanchez <maria.sanchez@corp.com>",
+        "subject": "Lunch & Learn Invite: New Cloud Architecture",
+        "timestamp": "2025-12-01 12:00:00",
+        "body": "Join us for a presentation on our new serverless cloud architecture! It's next Friday at noon in the cafeteria. We'll have pizza. RSVP by clicking 'Accept' on the calendar invite attached."
+    },
+    {
+        "id": 112,
+        "sender": "Daily Digest <digest@newsfeed.org>",
+        "subject": "Your Daily News Summary: World Events",
+        "timestamp": "2025-12-01 06:30:00",
+        "body": "A quick summary of global headlines, stock market movements, and weather. This is a generic information feed."
+    },
+    {
+        "id": 113,
+        "sender": "Client Request <client@importantclient.co>",
+        "subject": "FOLLOW UP: Issue with data export on Tuesday",
+        "timestamp": "2025-12-01 10:00:00",
+        "body": "We are still encountering errors when attempting to export data sets larger than 1GB. Can you investigate this today and provide a root cause analysis by 4 PM? We need a fix by the end of the week."
+    },
+    {
+        "id": 114,
+        "sender": "System Alerts <alert@system.com>",
+        "subject": "ALERT: Database Disk Space Low",
+        "timestamp": "2025-12-01 18:30:00",
+        "body": "Warning: Production database 'main_db' is currently operating at 95% disk utilization. This requires immediate attention. Please expand the volume to 2TB tonight."
+    },
+    {
+        "id": 115,
+        "sender": "Unknown Sender <noreply@freemoney.xyz>",
+        "subject": "RE: Your loan application has been approved",
+        "timestamp": "2025-12-01 04:00:00",
+        "body": "Congratulations on your pre-approved loan of $50,000! Reply with your social security number and mother's maiden name to receive your funds within 24 hours. Confidentiality guaranteed."
     }
 ]
