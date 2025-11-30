@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "sender": "Alice Johnson <alice@corp.com>",
+        "subject": "Urgent: Project Titan Launch Scope Review",
+        "timestamp": "2025-11-20 10:30:00",
+        "body": "Hi team,\n\nWe need to finalize the scope for Project Titan by end of day Friday. Please review the attached document and send me your sign-off by 3 PM tomorrow. I also need John to prepare a presentation on the risk analysis for Monday's meeting.\n\nThanks,\nAlice"
+    },
+    {
+        "id": 2,
+        "sender": "Marketing Newsletter <promo@news.com>",
+        "subject": "Weekly Update: 5 New Trends in Tech",
+        "timestamp": "2025-11-20 08:00:00",
+        "body": "Check out our latest article on AI trends and blockchain integration. Don't forget to subscribe to our premium content for deeper insights!"
+    },
+    {
+        "id": 3,
+        "sender": "CEO Bob <bob@corp.com>",
+        "subject": "Quick meeting request - Next Steps",
+        "timestamp": "2025-11-20 11:45:00",
+        "body": "Are you free for a 15-minute sync up tomorrow at 2 PM to discuss next steps on the Q4 budget? Let me know if that works. If not, please suggest another time."
+    }
+]
